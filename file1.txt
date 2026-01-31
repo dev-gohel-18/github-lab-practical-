@@ -1,0 +1,1 @@
+Github is a cloud-based platform for storing,sharing and collaborating on code projects, built around the Git version system.
